@@ -1,2 +1,3 @@
-# hikepkg-template
-template for HIKe packages
+# info HIKe package
+
+retrieve information from packet 
