@@ -182,7 +182,7 @@ HIKE_PROG(HIKE_PROG_NAME) {
     }
   }
 
-  DEBUG_HKPRG_PRINT("User info : %u",user_info);
+  DEBUG_HKPRG_PRINT("User info : %llu",user_info);
 
 out:
 	return HIKE_XDP_VM;
